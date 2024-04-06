@@ -1,0 +1,6 @@
+@CombinationAPI_HostAddress = http://localhost:5120
+
+GET {{CombinationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
